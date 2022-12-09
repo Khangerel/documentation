@@ -187,6 +187,8 @@ By default, inbound messages are fetched every 5 minutes in Odoo on-premise.
    :menuselection:`Settings --> Technical --> Automation --> Scheduled Actions` and look for
    :guilabel:`Mail: Fetchmail Service`.
 
+.. _email_servers/outgoing-email-server:
+
 Utilizing the From Filter on an outgoing email server
 =====================================================
 
